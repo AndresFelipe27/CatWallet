@@ -1,0 +1,10 @@
+strings:
+  inputs:
+    - CatWallet/CatWallet/Sources/CatWalletLocalizedStrings/Resources
+  outputs:
+    - templateName: structured-swift5
+      output: CatWallet/CatWallet/Sources/CatWalletLocalizedStrings/Generated/Strings+Generated.swift
+      params:
+        enumName: L10n
+        publicAccess: true
+

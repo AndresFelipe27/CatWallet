@@ -1,0 +1,15 @@
+helloCatWallet = "CatWallet";
+exploreCatBreedsSubtitle = "Explora razas de gatos, guarda favoritos y desbloquea favoritos ilimitados vinculando una tarjeta.";
+catBreedsTitle = "Razas de gatos";
+loadingBreeds = "Cargando razas...";
+retry = "Reintentar";
+noBreedsFound = "No se encontraron razas";
+tapToSeeFavorites = "Ver favoritos";
+addToFavorites = "Agregar a favoritos";
+removeFromFavorites = "Quitar de favoritos";
+origin = "Origen";
+temperament = "Temperamento";
+lifeSpan = "Esperanza de vida";
+years = "años";
+noImage = "Sin imagen";
+keepScrolling = "Sigue desplazándote";
